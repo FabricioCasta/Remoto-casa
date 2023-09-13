@@ -1,0 +1,67 @@
+* {
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: auto;
+}
+
+h1 {
+    background-color: orange;
+}
+
+h2 {
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+}
+
+div {
+        margin: 0 auto;
+        width: 50%;
+}
+
+footer {
+    text-align: center;
+    font-size: small;
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:20px;
+    width:100%;
+    background:#999;    
+}
+
+.agregado {
+    background-color: yellow;
+}
+.reemplazo {
+    background-color: red;
+}
+
+.lp  {
+    font-style: oblique;
+    color: green;
+    list-style-type: circle;
+}
+
+.jvm {
+    list-style-type: square;
+}
+
+b {
+    color: red;
+}
+/*solo aplica a esa equiqueta*/
+#rpta1 {
+    border-radius:  10px;
+    border-style: solid;
+    border-color: red;
+    margin: 0 auto;
+    width: 100%;
+}
+#rpta2 {
+    border-radius:  10px;
+    border-style: solid;
+    border-color: green;
+    margin: 0 auto;
+    width: 100%;
+}
