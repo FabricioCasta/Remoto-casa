@@ -1,0 +1,20 @@
+header img {
+    float: right;
+}
+
+/*
+Comentario 1
+Comentario 2
+*/
+
+/* Comentario */
+header p {
+    padding: 20px;
+    background-color: chocolate;
+    border: 2px solid red;
+}
+
+header {
+    opacity: 0.6;
+    background-image: url("../imagenes/fondo.jpg");
+}
